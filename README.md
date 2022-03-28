@@ -1,4 +1,4 @@
-# Lumen 7 simple maintenance mode
+# Lumen simple maintenance mode
 
 [![Build Status](https://travis-ci.com/8ctopus/lumen-7-maintenance-mode.svg?branch=master)](https://travis-ci.com/8ctopus/lumen-7-maintenance-mode)
 [![Latest Stable Version](https://poser.pugx.org/8ctopus/lumen-7-maintenance-mode/v/stable)](https://packagist.org/packages/8ctopus/lumen-7-maintenance-mode)
@@ -6,7 +6,7 @@
 [![License](https://poser.pugx.org/8ctopus/lumen-7-maintenance-mode/license)](https://packagist.org/packages/8ctopus/lumen-7-maintenance-mode)
 
 php 7.3 Lumen 7.x
-
+php 8.0 Lumen 9.x
 ## How to install
 
     composer require 8ctopus/lumen-7-maintenance-mode
